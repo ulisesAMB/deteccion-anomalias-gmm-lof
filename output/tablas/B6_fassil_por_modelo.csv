@@ -1,0 +1,37 @@
+"FECHA","nivel","modelo","percentil"
+2022-10-28,"Sistema (67 entidades)","GMM",15
+2022-10-28,"Sistema (67 entidades)","LOF",26.9
+2022-10-28,"Sistema (67 entidades)","Isolation Forest",30.4
+2022-11-28,"Sistema (67 entidades)","GMM",18.2
+2022-11-28,"Sistema (67 entidades)","LOF",50.1
+2022-11-28,"Sistema (67 entidades)","Isolation Forest",34.4
+2022-12-28,"Sistema (67 entidades)","GMM",11.4
+2022-12-28,"Sistema (67 entidades)","LOF",37.9
+2022-12-28,"Sistema (67 entidades)","Isolation Forest",31.9
+2023-01-28,"Sistema (67 entidades)","GMM",15.9
+2023-01-28,"Sistema (67 entidades)","LOF",20
+2023-01-28,"Sistema (67 entidades)","Isolation Forest",22.8
+2023-02-28,"Sistema (67 entidades)","GMM",22.7
+2023-02-28,"Sistema (67 entidades)","LOF",19.1
+2023-02-28,"Sistema (67 entidades)","Isolation Forest",17.2
+2023-03-28,"Sistema (67 entidades)","GMM",4
+2023-03-28,"Sistema (67 entidades)","LOF",6.4
+2023-03-28,"Sistema (67 entidades)","Isolation Forest",12
+2022-10-28,"Bancos (14 pares)","GMM",8.3
+2022-10-28,"Bancos (14 pares)","LOF",16
+2022-10-28,"Bancos (14 pares)","Isolation Forest",29.4
+2022-11-28,"Bancos (14 pares)","GMM",15.9
+2022-11-28,"Bancos (14 pares)","LOF",7.6
+2022-11-28,"Bancos (14 pares)","Isolation Forest",39.8
+2022-12-28,"Bancos (14 pares)","GMM",9.2
+2022-12-28,"Bancos (14 pares)","LOF",8.8
+2022-12-28,"Bancos (14 pares)","Isolation Forest",29.9
+2023-01-28,"Bancos (14 pares)","GMM",10.2
+2023-01-28,"Bancos (14 pares)","LOF",12
+2023-01-28,"Bancos (14 pares)","Isolation Forest",30
+2023-02-28,"Bancos (14 pares)","GMM",11.7
+2023-02-28,"Bancos (14 pares)","LOF",11.7
+2023-02-28,"Bancos (14 pares)","Isolation Forest",35.6
+2023-03-28,"Bancos (14 pares)","GMM",2.2
+2023-03-28,"Bancos (14 pares)","LOF",2.5
+2023-03-28,"Bancos (14 pares)","Isolation Forest",12.2
